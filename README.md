@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Tanmoy Santra 
 - 👀 I’m interested in DevOps, Cloud Native and Python
-- 🌱 I’m currently learning Python and kubernetes
+- 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on DevOps and cloud
 - 📫 To reach me :
         Linkdin = https://www.linkedin.com/in/tanmoy-santra/
-        Twitter = @Tanmoy_d_Rocker
+        Twitter = https://twitter.com/Tanmoy_d_Rocker
 
 <!---
 Tanmoy037/Tanmoy037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
