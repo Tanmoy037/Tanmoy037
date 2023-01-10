@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy037&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tanmoy037&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tanmoy037&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Tanmoy_d_Rocker)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
