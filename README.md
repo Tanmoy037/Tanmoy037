@@ -1,4 +1,4 @@
--# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Kubernetes Projects<br>👯 I’m looking to collaborate on Cloud Native tech and DevOps<br>🤝 I’m looking for help with Cloud<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me anything about Container Orchestration<br>⚡ Fun fact computer science fascinates me the most
 
 
@@ -12,16 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tanmoy037&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy037&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tanmoy037&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Tanmoy_d_Rocker)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Tanmoy037&icon=3&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
