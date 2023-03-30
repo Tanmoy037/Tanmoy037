@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kubernetes Projects<br>👯 I’m looking to collaborate on Cloud Native tech and DevOps<br>🤝 I’m looking for help with Cloud<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me anything about Container Orchestration<br>⚡ Fun fact sometimes I do mobile app development
+🔭 I’m currently working on Kubernetes Projects<br>👯 I’m looking to collaborate on Cloud Native tech and DevOps<br>🤝 I’m looking for help with Go-lang<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me anything about Container Orchestration<br>⚡ Fun fact sometimes I do mobile app development
 
 
 ## 🌐 Socials:
