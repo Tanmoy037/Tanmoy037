@@ -1,6 +1,6 @@
 # Hi, I'm Tanmoy 👋
 
-**DevOps / Site Reliability Engineer at [Synup](https://www.synup.com)** — I run production AWS and Kubernetes infrastructure and write about what breaks along the way.
+**Senior DevOps / Site Reliability Engineer at [Synup](https://www.synup.com)** — I run production AWS and Kubernetes infrastructure and write about what breaks along the way.
 
 - ☸️ Running production **EKS** clusters: Karpenter autoscaling, version upgrades, Graviton (arm64) migrations
 - 🐘 Zero-downtime database work: PostgreSQL major-version upgrades on RDS, CDC pipelines with AWS DMS, Kafka (MSK) and Redshift
